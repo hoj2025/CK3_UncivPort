@@ -16,6 +16,10 @@
         "movementType": "Land"
     },
     {
+        "name": "Pikes",
+        "movementType": "Land"
+    },
+    {
         "name": "Ranged Gunpowder",
         "movementType": "Land"
     },
