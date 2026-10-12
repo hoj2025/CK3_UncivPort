@@ -6,13 +6,14 @@
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
     },
     {
-		"name": "Rifleman",
-		"unitType": "Infantry",
+		"name": "경보병",
+		"unitType": "Sword",
 		"movement": 2,
-		"strength": 5,
-        "range": 2,
-		"rangedStrength": 7,
-		"cost": 40,
-		"attackSound": "shot"
+		"strength": 16,
+		"cost": 45,
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "노련한 산병들은 적의 측면을 교란하고 사기를 서서히 꺾는 데 더없이 귀중한 전력입니다."}
+		]
 	}
 ]
