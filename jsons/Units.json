@@ -23,12 +23,22 @@
 		"strength": 10,
 		"rangedStrength": 25,
 		"cost": 55,
-		"requiredTech": "Archery",
-		"obsoleteTech": "Construction",
-		"upgradesTo": "Composite Bowman",
+		"uniques": ["[+50]% Strength <vs [Sword] units>"],
 		"attackSound": "arrow"
 		"civilopediaText": [
 			{"text": "숙련된 궁수들은 화살로 하늘을 뒤덮어 적의 1선 병력에 궤멸적인 타격을 가합니다."}
+		]
+	},
+	{
+		"name": "장창병",
+		"unitType": "Pikes",
+		"movement": 2,
+		"strength": 24,
+		"cost": 75,
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+		"civilopediaText": [
+			{"text": "긴 장창으로 촘촘한 창벽을 이루는 이 연대들은 기병의 돌격을 단번에 저지할 수 있습니다."}
 		]
 	}
 ]
