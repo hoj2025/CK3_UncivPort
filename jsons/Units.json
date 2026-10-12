@@ -40,7 +40,8 @@
 		"attackSound": "metalhit"
 		"civilopediaText": [
 			{"text": "긴 장창으로 촘촘한 창벽을 이루는 이 연대들은 기병의 돌격을 단번에 저지할 수 있습니다."}
-		],
+		]
+	},
 		{
 		"name": "경기병",
 		"unitType": "Mounted",
@@ -51,7 +52,6 @@
 		"attackSound": "horse"
 		"civilopediaText": [
 			{"text": "가볍고 날랜 이 기병들은 측면 공격에 뛰어나며, 패주하는 적을 추격할 때 막대한 피해를 입힙니다."}
-		],
-	}
+		]
 	}
 ]
