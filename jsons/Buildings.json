@@ -1,0 +1,14 @@
+[
+  // Tribal Economic
+  
+	{
+		"name": "교역장",
+    "cost": 75,
+		"hurryCostModifier": 25,
+    "gold": 4,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+    "[2] Unit Supply"],
+		"requiredTech": "Crop Rotation"
+	}
+
+]
