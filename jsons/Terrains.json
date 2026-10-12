@@ -179,7 +179,6 @@
             "[+1] to Fertility for Map Generation",
             "A Region is formed with at least [37]% [Hill] tiles, with priority [6]",
             "Base Terrain on this tile is not counted for Region determination",
-            "Starts in regions of this type receive an extra [Sheep]",
             "Considered [Desirable] when determining start locations",
             "Considered [Production] when determining start locations",
             "Every [22] tiles with this terrain will receive a major deposit of a strategic resource."
@@ -419,7 +418,6 @@
         "unbuildable": true,
         "uniques": [
             "Must be adjacent to [0] [Coast] tiles",
-            "Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
             "Fresh water",
             "Tile provides yield without assigned population"
         ],
