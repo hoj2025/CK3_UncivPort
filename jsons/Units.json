@@ -35,10 +35,23 @@
 		"movement": 2,
 		"strength": 24,
 		"cost": 75,
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",
+		"[+20]% Strength <in [Forest] tiles>"],
 		"attackSound": "metalhit"
 		"civilopediaText": [
 			{"text": "긴 장창으로 촘촘한 창벽을 이루는 이 연대들은 기병의 돌격을 단번에 저지할 수 있습니다."}
-		]
+		],
+		{
+		"name": "경기병",
+		"unitType": "Mounted",
+		"movement": 3,
+		"strength": 22,
+		"cost": 85,
+		"uniques": ["[-33]% Strength <vs cities> <when attacking>" ],
+		"attackSound": "horse"
+		"civilopediaText": [
+			{"text": "가볍고 날랜 이 기병들은 측면 공격에 뛰어나며, 패주하는 적을 추격할 때 막대한 피해를 입힙니다."}
+		],
+	}
 	}
 ]
