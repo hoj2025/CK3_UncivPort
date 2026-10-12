@@ -1,6 +1,6 @@
 [
     {
-        "name": "Tier 0 Era",
+        "name": "Tribal",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, 
         "startingWorkerCount": 0,
@@ -10,7 +10,49 @@
         "baseUnitBuyCost": 200,
         "embarkDefense": 3,
         "startPercent": 0,
-        "citySound": "cityAncient",
+        "citySound": "cityClassical",
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "Early Medieval",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, 
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "경보병",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityMedieval",
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "High Medieval",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, 
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "경보병",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityMedieval",
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "Late Medieval",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, 
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "경보병",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityRenaissance",
         "iconRGB": [255, 87, 35]
     }
 ]
